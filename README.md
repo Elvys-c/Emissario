@@ -50,7 +50,7 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* Elvys Cavalcante(https://github.com/Elvys-c)
+* [Elvys Cavalcante](https://github.com/Elvys-c)
 * *.... (liste todos os membros da equipe)*
 
 ## Licença de uso
