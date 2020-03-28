@@ -50,7 +50,7 @@ As seguintes pessoas contribuiram para este projeto:
 
 * [Elvys Cavalcante](https://github.com/Elvys-c)
 * [Gustavo Marães](https://github.com/gustavomaraes)
-*.[Luiz Magalhães](https://github.com/luizmgh)
+* [Luiz Magalhães](https://github.com/luizmgh)
 * *.... (liste todos os membros da equipe)*
 
 ## Licença de uso
