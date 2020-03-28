@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
 ![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
 
-Emissário é uma plataforma que permite enviar mensagens em tempo real entre os contatos que estiverem online 
+Emissário é uma plataforma que permite enviar mensagens em tempo real entre os contatos que estiverem online.
 
 ## Pré-requisitos
 
@@ -55,5 +55,5 @@ As seguintes pessoas contribuiram para este projeto:
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
+Este projeto usa a seguinte licença: [<MIT>](<link>).
 *Você também deve criar um arquivo chamado LICENSE no projeto*
