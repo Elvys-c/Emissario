@@ -32,7 +32,7 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Nome_da_Aplicação
+## Usando Emissario
 
 Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
