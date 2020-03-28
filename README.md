@@ -55,5 +55,5 @@ As seguintes pessoas contribuiram para este projeto:
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [LICENSE](<link>).
+Este projeto usa a seguinte licença: [LICENSE](https://github.com/Elvys-c/progweb-template/blob/master/LICENSE).
 
